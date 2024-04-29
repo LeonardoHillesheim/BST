@@ -1,0 +1,10 @@
+digraph ArvoreBinaria {
+node [shape=circle, style=filled, color=black, fillcolor="#9370DB"];
+edge [color=black];
+17 -> 12;
+17 -> 27;
+12 -> 10;
+12 -> 14;
+27 -> 21;
+27 -> 29;
+}

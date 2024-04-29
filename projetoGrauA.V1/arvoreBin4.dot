@@ -1,0 +1,15 @@
+digraph ArvoreBinaria {
+node [shape=circle, style=filled, color=black, fillcolor="#9370DB"];
+edge [color=black];
+165 -> 150;
+165 -> 177;
+150 -> 148;
+150 -> 152;
+148 -> 142;
+152 -> 151;
+152 -> 155;
+177 -> 167;
+177 -> 186;
+167 -> 166;
+167 -> 171;
+}
